@@ -9,9 +9,10 @@
 
     1. LSDM Project 2 Part 1.ipynb        --  Python notebook for Q1-8 (Clustering with Sparse Text Representations)
     2. LSDM Project_2_Part_2.ipynb        -- Python notebook for Q9-18 (Clustering of the Entire 20 Classes)
-    3. Project_2_Image_Data_results.ipynb -- Python notebook for Q19-25 (Deep Learning and Clustering of Image Data)
-    4. Project_2_Report_Rachel_Menezes_905508013_Diplav_605627748_Evyn_Chiappe_605201321.pdf    -- Report
-    5. requirements.txt    -- library required
+    3. Project_2_Image_Data.ipynb         -- Python notebook for Q19-24 (Deep Learning and Clustering of Image Data)
+    4. Project_2_Image_Data_results.ipynb -- Python notebook for Q25 (Deep Learning and Clustering of Image Data Cont.)
+    5. Project_2_Report_Rachel_Menezes_905508013_Diplav_605627748_Evyn_Chiappe_605201321.pdf    -- Report
+    6. requirements.txt    -- library required
 
 
 ### 3. Setup
